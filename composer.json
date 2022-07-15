@@ -1,0 +1,19 @@
+{
+    "name": "zhaozerui888/composer",
+    "description": "简单的composer",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zhaozerui888\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhaoyanping",
+            "email": "15031226078@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
